@@ -1,0 +1,30 @@
+.btn{
+    border-radius: 15px;
+    background-color: rgb(255, 0, 102);
+    min-width: 35%;
+}
+
+.quizTitle{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 50px;
+
+}
+
+.btn{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    align-items: center;
+    text-align: center ;
+    background-color: pink;
+}   
+
+#main section{
+width:80%;
+margin:auto;
+}
+.btn-option{
+    width: 90%;
+}
